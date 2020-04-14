@@ -1,0 +1,10 @@
+name: "R-workshop"
+output_dir: "gh-pages"
+navbar:
+  title: "R-workshop"
+  left:
+  - text: "Home"
+   href: index.html
+output:
+  html_document:
+ theme: cosmo
